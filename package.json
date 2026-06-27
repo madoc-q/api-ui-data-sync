@@ -1,0 +1,14 @@
+{
+  "name": "api-ui-data-sync",
+  "version": "1.0.0",
+  "description": "API-to-UI Data Synchronization Suite for the Conduit RealWorld Application",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}
